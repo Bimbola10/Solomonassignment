@@ -1,6 +1,7 @@
-// Question 1
-
 let prompt = require('prompt-sync')({sigint: true})
+
+
+// Question 1
 
 let first_name = prompt('Enter Your First Name: ');
 
